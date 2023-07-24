@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "139328700524",
+    "firebase_url": "https://emart-9acb6-default-rtdb.firebaseio.com",
+    "project_id": "emart-9acb6",
+    "storage_bucket": "emart-9acb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139328700524:android:dce6f3f5a61cc6b8319849",
+        "android_client_info": {
+          "package_name": "com.example.e_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139328700524-a6gvvu2q2unq276er25vf4e2lb241qbd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_mart",
+            "certificate_hash": "d44c95745951bd4187d4e7b3862faab7e448617d"
+          }
+        },
+        {
+          "client_id": "139328700524-r58eqn8oe50qra27f89nm9vcf52dimph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAxlot5rqTOLAybuh_C-ptXV8J2-1yqVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139328700524-r58eqn8oe50qra27f89nm9vcf52dimph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139328700524:android:40b4dbe39ba8e016319849",
+        "android_client_info": {
+          "package_name": "com.myApp.emart_seller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139328700524-r58eqn8oe50qra27f89nm9vcf52dimph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAxlot5rqTOLAybuh_C-ptXV8J2-1yqVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139328700524-r58eqn8oe50qra27f89nm9vcf52dimph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
